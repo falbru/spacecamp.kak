@@ -68,7 +68,7 @@ evaluate-commands %sh{
 	face global StatusLineValue    ${goo}
 	face global StatusCursor       ${black0},${steel}
 	face global Prompt             ${gold}
-	face global MatchingChar       ${black1}+bg
+	face global MatchingChar       default,${black1}+bg
 	face global BufferPadding      ${gray1},${black0}
 	face global Whitespace         ${gray1}+f
 	"
