@@ -1,5 +1,6 @@
 # spacecamp.kak
 > A port of the [SpaceCamp](https://github.com/jaredgorski/SpaceCamp) color scheme for Kakoune.
+
 ![screenshot](screenshots/screenshot0.png)
 ## Installation
 **With [plug.kak](https://github.com/andreyorst/plug.kak):**
