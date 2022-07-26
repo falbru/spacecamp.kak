@@ -5,7 +5,7 @@
 ## Installation
 **With [plug.kak](https://github.com/andreyorst/plug.kak):**
 ```kak
-plug "haukkagu/spacecamp" theme
+plug "haukkagu/spacecamp.kak" theme
 ```
 **Without a plugin manager:**
 ```sh
