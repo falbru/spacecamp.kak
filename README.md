@@ -2,6 +2,7 @@
 > A port of the [SpaceCamp](https://github.com/jaredgorski/SpaceCamp) color scheme for Kakoune.
 
 ![screenshot](screenshots/screenshot0.png)
+
 ## Installation
 **With [plug.kak](https://github.com/andreyorst/plug.kak):**
 ```kak
@@ -25,6 +26,9 @@ or...
 ```kak
 colorscheme spacecamp-lite
 ```
+
+## See also
+* [haukkagu/powerline-spacecamp.kak](https://github.com/haukkagu/powerline-spacecamp.kak) - SpaceCamp theme for [powerline.kak](https://github.com/andreyorst/powerline.kak).
 
 ## Credits
 Thanks to [Jared Gorski](https://github.com/jaredgorski) for creating this amazing color scheme!
