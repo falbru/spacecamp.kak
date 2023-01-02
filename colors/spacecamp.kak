@@ -46,8 +46,8 @@ evaluate-commands %sh{
 
 	# builtin
 	face global Default            ${white},${black0}
-	face global PrimarySelection   ${white},${gray1}+g
-	face global SecondarySelection ${gray3},${gray1}+g
+	face global PrimarySelection   default,${gray1}
+	face global SecondarySelection ${gray3},${gray1}
 	face global PrimaryCursor      ${black0},${steel}+fg
 	face global SecondaryCursor    ${white},${gray2}+fg
 	face global PrimaryCursorEol   ${black0},${gray3}+fg
